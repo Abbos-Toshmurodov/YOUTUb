@@ -90,6 +90,7 @@ header > ul li:first-child > div {
 	padding-left: 30px;
 	border-radius: 30px;
 	font-size: 18px;
+	border: none;
 }
 
 .search button {
